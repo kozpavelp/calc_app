@@ -1,0 +1,8 @@
+tests/.pytest_cache/
+venv/
+.pytest_cache
+tests/__pycache__/
+schemas/__pycache__/
+handlers/__pycache__/
+db/__pycache__/
+__pycache__/
